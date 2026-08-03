@@ -1,0 +1,5 @@
+# Raw dataset - kept locally, not uploaded to GitHub
+data/raw/
+
+# Jupyter temporary checkpoint files
+.ipynb_checkpoints/
