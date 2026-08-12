@@ -1,6 +1,6 @@
 # Brazilian E-Commerce Data Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes a real-world Brazilian e-commerce dataset to explore customer behavior, order performance, payment patterns, product categories, reviews, and delivery performance.
 
@@ -10,7 +10,7 @@ The analysis is currently **under development**, with the data wrangling and dat
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of this project are:
 
@@ -23,7 +23,7 @@ The main objectives of this project are:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **Brazilian E-Commerce Public Dataset by Olist**, which contains information about approximately **100,000 orders** made through an e-commerce platform in Brazil.
 
@@ -43,7 +43,7 @@ The dataset consists of multiple interconnected tables:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python**
 - **Pandas**
@@ -55,7 +55,7 @@ The dataset consists of multiple interconnected tables:
 
 ---
 
-## 🔍 Data Wrangling & Data Quality
+## Data Wrangling & Data Quality
 
 Before conducting the analysis, each dataset was individually examined to understand its structure, variables, data types, and relationships with the other tables.
 
@@ -86,7 +86,7 @@ Rather than automatically removing or imputing these observations, the project i
 
 ---
 
-## 📈 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 **Currently under development.**
 
@@ -104,7 +104,7 @@ The EDA stage will investigate:
 
 ---
 
-## 💡 Business Questions
+## Business Questions
 
 The analysis will attempt to answer questions such as:
 
@@ -127,7 +127,7 @@ Visualizations will focus on communicating business-relevant patterns and insigh
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 
 **Coming soon.**
 
@@ -135,7 +135,7 @@ The final section will summarize the most important findings and translate them 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Brazilian Ecommerce Analysis/
